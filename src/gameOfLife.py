@@ -1,7 +1,7 @@
 """
 Created by @patatessever
 e-mail: yunus.erzurumlu@metu.edu.tr
-I dont have idea about licenses
+I dont have any idea about licenses
 """
 
 import random
